@@ -1,3 +1,3 @@
 # Vanced
-Youtube sem anuncio familia <br>
+Youtube sem anuncios familia <br>
 Use por sua conta e risco
